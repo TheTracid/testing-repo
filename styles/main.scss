@@ -1,0 +1,30 @@
+body{
+
+	background-color: black;
+	margin: 0;
+	p{
+		color: white;
+	}
+}
+.main-banner{
+	height: 450px;
+	width: 100%;
+	margin: 0;
+	background-image: url('/design-assets/mountain-05.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top center;
+
+	h1{
+		color: white;
+		text-transform: uppercase;
+		text-align: center;
+		font-size: 72px;
+		font-family: 'Helvetica', sans-serif;
+		font-weight: bold;
+		position: relative;
+		top: 200px;
+		margin: 0;
+
+	}
+}
